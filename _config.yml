@@ -1,0 +1,14 @@
+layout_spectrum: 0.8099117302335799
+typography_spectrum: 0.6830926032271236
+color:
+  brandStrength: 0.33930386137217283
+  lightness: 0.6665758308954537
+  saturation: 0.2592377800028771
+  rhythmicContrast: 0.12854524003341794
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: BBharts
